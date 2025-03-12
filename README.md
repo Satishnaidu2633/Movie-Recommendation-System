@@ -18,9 +18,7 @@ This project implements a **Movie Recommendation System** using **cosine similar
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/Satishnaidu2633/Movie-Recommendation-System.git
-   cd Movie-Recommendation-System
-   jupyter notebook
+git clone https://github.com/Satishnaidu2633/Movie-Recommendation-System.git
    ```
    
 ## 🔮 Future Enhancements
