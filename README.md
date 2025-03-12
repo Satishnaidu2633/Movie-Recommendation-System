@@ -19,8 +19,7 @@ This project implements a **Movie Recommendation System** using **cosine similar
 1. **Clone the repository**
    ```bash
 git clone https://github.com/Satishnaidu2633/Movie-Recommendation-System.git
-   ```
-   
+```
 ## 🔮 Future Enhancements
 
 We plan to enhance the **Movie Recommendation System** by adding advanced techniques and improving scalability.
